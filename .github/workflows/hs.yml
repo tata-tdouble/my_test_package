@@ -14,4 +14,4 @@ jobs:
         run: ls -al
 
       - name: Display Greetings
-        run: cat greetings.txt
+        run: cat greeting.txt
